@@ -1,4 +1,4 @@
-module github.com/xdg-go/scram
+module github.com/SangHo-Park/scram
 
 go 1.11
 
